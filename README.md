@@ -30,4 +30,5 @@ Since this extension is not published on the Chrome Web Store, you can manually 
 * This method works for Chromium-based browsers like Chrome, Edge, Brave, etc.
 ---
 If we reach atleast 5$ in donations to cover the one-time developer fee, i will publish the extension on the chrome web store
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S11IXK2X)
