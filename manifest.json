@@ -14,5 +14,11 @@
   ],
   "icons": {
     "128": "icons/icon128.png"
+  },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuS61sHwVi0bo78tsfiir9evqyRxf7uY+Sq9+GLLMrL2PDtH6cTS5pIALV7KKLiXx4boiQZoMt8l8hbhiHc6GlcibSWgNR7nhqyM8afRPZlQDlEJpW5/AWPF7bwmPsv+l8lfPeGNwGdTSzZJ8RYP8m+mwl3NKzYDw76UX42ztv5LHUumuclVJ74+jfOWAdV2dZ8EGfRnU6G/iELNkxWgmU04kVwbwun9OzlYlRfTjLfynv0faoaD+N1vVy6Oa4shkO4iurBMllL/q1pM5JcBgQhQl0hgLLkSiN08hDP7SHnnfa6tYBsxrViMGClzDD7cZKR7iyeyFmDuRr5ywsAvkAwIDAQAB",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "bringbackfriends@izzoserver.top"
+    }
   }
 }
