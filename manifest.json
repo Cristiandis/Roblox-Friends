@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Bring Back Roblox Friends",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Replace 'Connections' with 'Friends' on the Roblox website.",
   "permissions": ["scripting"],
   "host_permissions": ["*://*.roblox.com/*"],

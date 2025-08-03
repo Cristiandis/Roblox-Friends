@@ -24,8 +24,18 @@ function walkAndReplace(node) {
     }
 }
 
+function replaceSpecificPlaceholder() {
+    if (window.location.pathname.startsWith("/users/friends")) {
+        const input = document.querySelector("input.friends-filter-searchbar-input");
+        if (input && input.placeholder === "Search Connections") {
+            input.placeholder = "Search Friends";
+        }
+    }
+}
+
 function runReplacements() {
     walkAndReplace(document.body);
+    replaceSpecificPlaceholder();
 }
 
 const observer = new MutationObserver(() => {
